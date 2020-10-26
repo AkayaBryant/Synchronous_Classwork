@@ -1,0 +1,31 @@
+html{
+  background-size: 100%;
+  background-color: black;
+  text-align :center;
+}
+
+p{
+  font-size: 30px;
+}
+
+.two{
+  background-color: white;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding: 200px;
+}
+.two h1{
+  font-size: 70px;
+}
+.three{
+  background-color: gray;
+  color: white;
+  width: 560px;
+  padding: 5% 0 0;
+  margin: auto;
+  font-size: 20px
+}
+a{
+  text-decoration: none;
+}
